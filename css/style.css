@@ -21,6 +21,10 @@ body {
 a {
     font-size: 200%;
 }
+a:hover {
+    color:red;
+    transition: 1s;
+}
 
 
 
